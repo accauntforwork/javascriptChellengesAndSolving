@@ -92,6 +92,6 @@ const printFahrenheitToCelsius = (fahrenheit) => {
   const fahrenheitToCelsius = (fahrenheit) => ((fahrenheit - 32) * 5) / 9;
   console.log(fahrenheitToCelsius(fahrenheit));
 };
-// create a function that will convert from celsius to fahrenheit
+// create a function that will convert from fahrenheit to celsius
 printFahrenheitToCelsius(120);
 // -----------------------------------------------------------------------------------
